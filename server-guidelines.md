@@ -7,6 +7,5 @@
 5. Abuse of multiple accounts for block evasion or other circumvention of policy may result in these accounts being indefinitely blocked.
 6. Any form of cheating or unfair advantage is not allowed, except where it's stated. Players who have caught cheating may be blocked indefinitely.
     1. Anything that could be done in [vanilla](https://minecraft.wiki/w/Vanilla), without [modifications](https://minecraft.wiki/w/Mod) and external software whatsoever, are considered fair play, and not cheating.
-
 ## Allowed modifications
 1. Any kinds of mapping mods, such as mini map, waypoints, and etc.
