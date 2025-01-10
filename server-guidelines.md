@@ -8,5 +8,6 @@
 6. Any form of cheating or unfair advantage is not allowed, except where it's stated. Players who have caught cheating may be blocked indefinitely.
     1. Anything that could be done in [vanilla](https://minecraft.wiki/w/Vanilla), without [modifications](https://minecraft.wiki/w/Mod) and external software whatsoever, are considered fair play, and not cheating.
 7. Stealing, vandalism, and any form of griefing on a player-owned building, base, and other properties are not allowed.
+8. Rules that are stated and enforced at Garuda Expeditions are also enforced here. In any events shall the server's guidelines and policies conflict with the Garuda Expeditions' rules, or may be ambigious or unclear, the Garuda Expeditions' rules shall take over.
 ## Allowed modifications
 1. Any kinds of mapping mods, such as mini map, waypoints, and etc.
